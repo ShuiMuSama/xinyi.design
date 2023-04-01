@@ -1,0 +1,1440 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"sectio",
+				"section-title-1\t style.css"
+			],
+			[
+				"tra",
+				"transform-origin"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"ff",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"ob_end",
+				"ob_end_flush〔function〕"
+			],
+			[
+				"ob_get_c",
+				"ob_get_contents〔function〕"
+			],
+			[
+				"get_home",
+				"get_home_url〔function〕"
+			],
+			[
+				"colum",
+				"$column_headers〔variable〕"
+			],
+			[
+				"stagg",
+				"staggerFromTo"
+			],
+			[
+				"min",
+				"mini_cart_item\t style.scss"
+			],
+			[
+				"bl",
+				"black\t _rte.scss"
+			],
+			[
+				"Po",
+				"Power3"
+			],
+			[
+				"ord",
+				"orderby"
+			],
+			[
+				"selec",
+				"select2"
+			],
+			[
+				"has-",
+				"has-label\t style.scss"
+			],
+			[
+				"gray",
+				"gray-light\t style.scss"
+			],
+			[
+				"iln",
+				"inline-block"
+			],
+			[
+				"formrow",
+				"form-row-submit\t style.scss"
+			],
+			[
+				"form-",
+				"form-group\t style.scss"
+			],
+			[
+				"payme",
+				"payment-info\t style.scss"
+			],
+			[
+				"col2",
+				"col2-set\t style.scss"
+			],
+			[
+				"product",
+				"product-total\t style.scss"
+			],
+			[
+				"wooco",
+				"woocommerce-message\t style.scss"
+			],
+			[
+				"ltt",
+				"letter-spacing"
+			],
+			[
+				"select2",
+				"select2-choice\t style.scss"
+			],
+			[
+				"selec2c",
+				"select2-container\t style.scss"
+			],
+			[
+				"select2-c",
+				"select2-container\t style.scss"
+			],
+			[
+				"gra",
+				"gray-light\t style.scss"
+			],
+			[
+				"gray-lig",
+				"gray-lighter\t style.scss"
+			],
+			[
+				"black-li",
+				"black-light\t style.scss"
+			],
+			[
+				"produ",
+				"product-name\t style.scss"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"togg",
+				"toggleClass〔function〕"
+			],
+			[
+				"layout-ar",
+				"layout-archive-designer\t style.scss"
+			],
+			[
+				"clea",
+				"clearfix\t _helpers.scss"
+			],
+			[
+				"woo",
+				"woocommerce-main-image\t style.scss"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"blackl",
+				"black-light\t style.scss"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"black-l",
+				"black-lighter\t editor-style.scss"
+			],
+			[
+				"bga",
+				"background"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"se2c",
+				"select2-container\t style.scss"
+			],
+			[
+				"black",
+				"black-lighter\t editor-style.scss"
+			],
+			[
+				"str_rep",
+				"str_replace〔function〕"
+			],
+			[
+				"gridd",
+				"grid-designer\t style.scss"
+			],
+			[
+				"grid-d",
+				"grid-designer\t style.scss"
+			],
+			[
+				"sel2co",
+				"select2-choice\t style.scss"
+			],
+			[
+				"trans",
+				"transition-timing-function"
+			],
+			[
+				"transiti",
+				"transition"
+			],
+			[
+				"teml",
+				"template_directory"
+			],
+			[
+				"grid",
+				"grid-product\t style.scss"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"sty",
+				"style\t style.scss"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"slidei",
+				"slide-image\t style.scss"
+			],
+			[
+				"te",
+				"text-indent"
+			],
+			[
+				"set",
+				"section-title\t style.scss"
+			],
+			[
+				"t",
+				"table-cell"
+			],
+			[
+				"section",
+				"section-image\t style.scss"
+			],
+			[
+				"b",
+				"black-lighter\t _wordpress.scss"
+			],
+			[
+				"endfor",
+				"endforeach〔keyword〕"
+			],
+			[
+				"texta",
+				"text-align"
+			],
+			[
+				"ti",
+				"text-indent"
+			],
+			[
+				"sub",
+				"sub-menu\t style.scss"
+			],
+			[
+				"page-intr",
+				"page-intro-images\t style.scss"
+			],
+			[
+				"wp_qu",
+				"$wp_query〔variable〕"
+			],
+			[
+				"class",
+				"class_exists〔function〕"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"fw",
+				"font-weight"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"sim",
+				"simplifiedVersion"
+			],
+			[
+				"pagese",
+				"page-section-one-column\t style.scss"
+			],
+			[
+				"add",
+				"addClass〔function〕"
+			],
+			[
+				"eleme",
+				"element"
+			],
+			[
+				"close",
+				"closest"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"slides",
+				"slideshow"
+			],
+			[
+				"nextI",
+				"nextIndex〔variable〕"
+			],
+			[
+				"contas",
+				"containers〔variable〕"
+			],
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"easeO",
+				"easeInOut"
+			],
+			[
+				"video",
+				"video-container\t style.scss"
+			],
+			[
+				"slide",
+				"slide\t style.scss"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"custo",
+				"custom_path1"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"wo",
+				"word-wrap"
+			],
+			[
+				"eaes",
+				"easeOut"
+			],
+			[
+				"ani",
+				"animation-delay"
+			],
+			[
+				"bgc",
+				"background-color"
+			],
+			[
+				"act",
+				"activeSlide〔variable〕"
+			],
+			[
+				"pageCo",
+				"pageContainer〔variable〕"
+			],
+			[
+				"sta",
+				"staggerFromTo"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"hovert-",
+				"hover-text\t style.scss"
+			],
+			[
+				"hover-",
+				"hover-text\t style.scss"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"transf",
+				"transform-origin"
+			],
+			[
+				"transfor",
+				"transform"
+			],
+			[
+				"transitio",
+				"transition-delay"
+			],
+			[
+				"requ",
+				"requestAnimationFrame"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"is-reve",
+				"is-revealed"
+			],
+			[
+				"Pow",
+				"Power3.easeOut"
+			],
+			[
+				"des",
+				"destY〔variable〕"
+			],
+			[
+				"R",
+				"round〔function〕"
+			],
+			[
+				"cur",
+				"currentY〔variable〕"
+			],
+			[
+				"outerH",
+				"outerHeight"
+			],
+			[
+				"blt",
+				"block-title\t style.scss"
+			],
+			[
+				"relate",
+				"$related_post〔variable〕"
+			],
+			[
+				"border",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 269.0,
+		"last_filter": "Package Control: re",
+		"selected_items":
+		[
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"lower",
+				"Convert Case: Lower Case"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insa",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacakge disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"page inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa list",
+				"Package Control: List Packages"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			]
+		],
+		"width": 725.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/G/pres-lasses.com/wp-content/themes/Divi/tpl-page-orange.php",
+		"/G/pres-lasses.com/wp-content/themes/Divi/sidebar-footer.php",
+		"/G/pres-lasses.com/wp-content/themes/Divi/footer.php",
+		"/G/pres-lasses.com/wp-content/themes/Divi/includes/builder/scripts/frontend-builder-scripts.js",
+		"/G/pres-lasses.com/wp-content/themes/Divi/includes/builder/functions.php",
+		"/G/pres-lasses.com/wp-content/themes/Divi/includes/builder/core.php",
+		"/G/pres-lasses.com/wp-content/themes/Divi/epanel/google-fonts/et_google_fonts.js",
+		"/G/pres-lasses.com/wp-content/themes/Divi/epanel/custom_functions.php",
+		"/G/pres-lasses.com/wp-content/themes/Divi/includes/builder/main-modules.php",
+		"/G/pres-lasses.com/wp-includes/link-template.php",
+		"/G/pres-lasses.com/wp-content/themes/Divi/header.php",
+		"/G/carbone.ink/wp-content/themes/carbone/404.php",
+		"/G/carbone.ink/wp-content/themes/carbone/archive.php",
+		"/G/carbone.ink/wp-content/themes/carbone/block-share.php",
+		"/G/carbone.ink/wp-content/themes/carbone/comment.php",
+		"/G/carbone.ink/wp-content/themes/carbone/comments.php",
+		"/G/carbone.ink/wp-content/themes/carbone/content.php",
+		"/G/carbone.ink/wp-content/themes/carbone/functions.php",
+		"/G/carbone.ink/wp-content/themes/carbone/header.php",
+		"/G/carbone.ink/wp-content/themes/carbone/inc/custom/widget_awbp_custom_name.php",
+		"/G/carbone.ink/wp-content/themes/carbone/languages/fr_FR.mo",
+		"/G/carbone.ink/wp-content/themes/carbone/languages/fr_FR.po",
+		"/G/carbone.ink/wp-content/themes/carbone/no-results.php",
+		"/G/carbone.ink/wp-content/themes/carbone/pagination.php",
+		"/G/carbone.ink/wp-content/themes/carbone/search.php",
+		"/G/carbone.ink/wp-content/themes/carbone/searchform.php",
+		"/G/melville-design.com/wp-content/themes/melville-site/functions.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/functions.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-customer-order-csv-export/includes/class-wc-customer-order-csv-export-formats.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/abstracts/abstract-wc-order.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/class-wc-order.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/pdf_templates/template.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-pdf-invoice/classes/class-pdf-send-pdf-class.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-pdf-invoice/changelog.txt",
+		"/G/melville-design.com/wp-content/themes/melville-site/js/script.js",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-customer-order-csv-export/includes/class-wc-customer-order-csv-export-generator.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-pdf-invoice/woocommerce-pdf-invoice.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/class-wc-countries.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-pdf-invoice.old/classes/class-pdf-send-pdf-class.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-pdf-invoice/templates/template.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-customer-order-csv-export/includes/export-methods/interface-wc-customer-order-csv-export-method.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-customer-order-csv-export/includes/class-wc-customer-order-csv-export-ajax.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-customer-order-csv-export/includes/admin/class-wc-customer-order-csv-export-admin.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-customer-order-csv-export/includes/admin/class-wc-customer-order-csv-export-list-table.php",
+		"/G/melville-design.com/wp-config.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-customer-order-csv-export/includes/class-wc-customer-order-csv-export-compatibility.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/sass/style.scss",
+		"/G/melville-design.com/wp-content/themes/melville-shop/js/script.js",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/form-shipping.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/form-billing.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/cart/mini-cart.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/add-to-cart/variation-add-to-cart-button.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/add-to-cart/simple.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/add-to-cart/grouped.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/front-page.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/tpl-offers.php",
+		"/G/melville-design.com/wp-content/themes/melville-site/sass/style.scss",
+		"/G/melville-design.com/wp-content/themes/melville-site/tpl-contact.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/tpl-contact.php",
+		"/G/melville-design.com/wp-content/themes/melville-site/header.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/footer.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/inc/queries.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/wc-template-hooks.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/wc-template-functions.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/wc-order-functions.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/class-wc-shortcodes.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/form-login.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/navigation.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/wc-account-functions.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/header.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/payment.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/review-order.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/my-address.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/form-pay.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/dashboard.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/form-edit-address.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/form-edit-account.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart-variation.js",
+		"/G/melville-design.com/wp-content/plugins/woocommerce-multilingual/inc/class-wcml-xdomain-data.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/downloads.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/orders.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/payment-methods.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/tpl-cart.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/tpl-checkout.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/tpl-account.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/cart/cart.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/cart/cart-totals.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/cart/proceed-to-checkout-button.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/searchform.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/search.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/no-results.php",
+		"/G/melville-design.com/wp-includes/query.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/wc-cart-functions.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/js/plugins.js",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/form-login.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/form-coupon.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/form-checkout.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/global/form-login.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/cart/cart-empty.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/payment-method.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/terms.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/notices/error.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/notices/success.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/checkout/thankyou.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/archive-product.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/order/order-details-customer.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/order/order-details.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/includes/gateways/cheque/class-wc-gateway-cheque.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/myaccount/my-account.php",
+		"/G/melville-design.com/wp-content/plugins/woocommerce/templates/checkout/form-billing.php",
+		"/G/melville-design.com/wp-content/plugins/password-protected/theme/password-protected-login.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/sass/_helpers.scss",
+		"/G/melville-design.com/wp-content/themes/melville-shop/page.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/sass/_rte.scss",
+		"/G/melville-design.com/wp-content/themes/melville-shop/block-cart.php",
+		"/G/melville-design.com/wp-content/themes/melville-site/inc/queries.php",
+		"/G/melville-design.com/wp-content/plugins/sitepress-multilingual-cms/embedded/wpml/commons/src/dependencies/class-wpml-dependencies.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/global/breadcrumb.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/product-image.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/related.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/content-single-product.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/tabs/additional-information.php",
+		"/G/melville-design.com/wp-includes/formatting.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/block-share.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/share.php",
+		"/G/melville-design.com/wp-config.php.prod",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/tabs/description.php",
+		"/G/melville-design.com/wp-content/themes/melville-shop/woocommerce/single-product/tabs/tabs.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 117.0,
+		"where_history":
+		[
+			"G:\\pres-lasses.com\\wp-content\\themes\\Divi",
+			"G:\\pres-lasses.com",
+			"G:\\carbone.ink",
+			"G:\\carbone.ink\\wp-content\\themes\\carbone",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-shop",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-shop\\woocommerce",
+			"G:\\melville-design.com\\wp-content",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content",
+			"G:\\melville-design.com\\wp-content\\plugins\\jetpack",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\plugins\\jetpack",
+			"G:\\melville-design.com\\wp-content\\plugins\\jetpack\\modules\\publicize",
+			"G:\\melville-design.com\\wp-content\\plugins\\jetpack",
+			"G:\\melville-design.com\\wp-content\\plugins\\jetpack\\modules\\publicize",
+			"G:\\melville-design.com\\wp-content\\plugins\\jetpack",
+			"G:\\melville-design.com\\wp-content\\plugins\\jetpack\\modules\\publicize",
+			"G:\\melville-design.com\\wp-content\\plugins\\jetpack",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-shop",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-customer-order-csv-export",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-customer-order-csv-export",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-customer-order-csv-export",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-customer-order-csv-export",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-shop\\woocommerce\\single-product\\add-to-cart",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-shop\\woocommerce",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-shop\\woocommerce",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-shop",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce\\assets\\css",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-shop",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce\\templates",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos\\assets",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-site",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pdf-invoice",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-site",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\languages\\plugins",
+			"G:\\melville-design.com\\wp-content",
+			"G:\\melville-design.com\\wp-content\\languages\\plugins",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-site",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-site",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce-pos-pro",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-site",
+			"G:\\melville-design.com\\wp-content\\plugins\\contextual-related-posts",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-site",
+			"G:\\melville-design.com\\wp-content\\plugins",
+			"G:\\melville-design.com\\wp-content\\themes\\melville-site",
+			"G:\\melville-design.com",
+			"G:\\melville-design.com\\wp-content\\plugins\\woocommerce",
+			"G:\\melville-design.com",
+			"G:\\waaark.com\\wp-content\\themes\\wrk",
+			"G:\\bonnemarque.se\\wp-content\\themes\\bonnemarque",
+			"G:\\bonnemarque.se",
+			"G:\\bonnemarque.se\\wp-content\\themes\\bonnemarque",
+			"G:\\bonnemarque.se\\wp-content\\plugins\\contact-form-7",
+			"G:\\bonnemarque.se\\wp-content\\plugins\\contact-form-7\\includes\\js",
+			"G:\\bonnemarque.se\\wp-content\\plugins\\contact-form-7",
+			"G:\\bonnemarque.se\\wp-content\\themes\\bonnemarque",
+			"G:\\bonnemarque.se",
+			"G:\\bonnemarque.se\\wp-content\\themes\\bonnemarque",
+			"G:\\pedrito-store.com",
+			"G:\\pedrito-store.com\\themes\\pedrito2015\\js",
+			"G:\\pedrito-store.com\\themes\\pedrito2015"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"et_pb_gallery_title",
+			"et_pb_galler",
+			"-brow",
+			"et_pb_gal",
+			"@media",
+			"arrow-br",
+			"et_pb_gal",
+			"et-pb-gall",
+			"arrow-left.",
+			"arrow-left;",
+			"magnificPopup",
+			"et_pb_main_blurb_image",
+			"magnificPopup",
+			"et_pb_main_blurb_image",
+			"h2",
+			"logo",
+			",\n",
+			"@media",
+			"#main-foot",
+			"#main-foo",
+			"et-social-icons",
+			"bentha",
+			"Betham",
+			"#main-footer",
+			"data-zoom",
+			"google.maps",
+			"google_api",
+			"googleapis.",
+			"bentham",
+			"Indie Flower",
+			"font",
+			"divi-fonts-css",
+			"arvo",
+			"et-gf-arvo-css",
+			"googleapis",
+			"black ops one",
+			"black ps one",
+			"et_pb_testimonial_author",
+			"testimonial",
+			"9402",
+			"et-fixed-header",
+			"fixed",
+			"#logo",
+			"padding",
+			"et-top-navigation",
+			"logo_helper",
+			"logo",
+			"#logo",
+			"secondary-me",
+			"secondary-m",
+			"1551",
+			"open s",
+			"open",
+			"fonts",
+			"font",
+			"et_core_get_main_fonts",
+			"google",
+			"'divi",
+			"_e",
+			"pres-lasses.com",
+			"pres-lasses.coom",
+			"carbone_load_customs",
+			"custom",
+			"actions",
+			" ?>",
+			"Modernizr.history",
+			"ajaxNav",
+			"histo",
+			"medium_large",
+			"_awbp",
+			"text-decoration: underline;",
+			"link-bor",
+			"=text",
+			"=product",
+			"icl_object_id",
+			"sprint",
+			"print_f",
+			"_s(",
+			"_s",
+			"tmpl-unavailable-variation-template",
+			"woocommerce_get_availability_text",
+			"Désolé, ce produit n’est pas disponible",
+			"Désolé, ce produit n’est pas disponible.",
+			"trim_word",
+			"excerpt",
+			"more word",
+			"more words",
+			"excerpt",
+			"post_content",
+			"save_publicized_facebook_account",
+			"publicize_save_meta",
+			"submit_post",
+			" save_meta",
+			"add_",
+			"save_publicized",
+			"trip",
+			"more",
+			"more word",
+			"word",
+			"words",
+			"more words",
+			"PDFLANGUAGE",
+			"pdf_template_order_totals",
+			"amount refunded",
+			"redirec",
+			"alt=\"\"",
+			"subject",
+			"order_num",
+			"mail",
+			"=slidesho",
+			"=slideo",
+			"parall",
+			"momen",
+			"scroll-reveal",
+			"scrollRevealHandler",
+			"scrollreveal",
+			"initScrollAnimations",
+			"scroll-reveal",
+			"var linkh",
+			"showload",
+			"scroll",
+			"wc_customer_order_csv_export_order_row_one_row_per_item",
+			"export",
+			"press",
+			"=press",
+			".section-press {",
+			"=press",
+			"press"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"carbone",
+			"$wp_query",
+			"/div>",
+			"<div",
+			"",
+			"div>",
+			"<div",
+			"</div>",
+			"<div",
+			"</div>",
+			"<div",
+			"myorder_obj",
+			"$gray-lighter",
+			"melville",
+			"span",
+			"li>",
+			"<li",
+			"li",
+			"</span>",
+			"<span class=\"label\">",
+			"melville",
+			"table ",
+			"",
+			"))",
+			"((",
+			"\"",
+			"</th>",
+			" ",
+			"'woocommerce-pos'",
+			"large",
+			"<td colspan=\"2\"></td><th colspan=\"1\">",
+			"<td colspan=\"2\"></td><th colspan=\"\">",
+			"<td colspan=\"2\"></td><th colspan=\"1\">",
+			"colspan=\"3\"",
+			"<div class=\"label\">",
+			"<div class=\"row\">",
+			"<div class=\"value\"",
+			"http://",
+			"get_mlines(true);",
+			"</div>",
+			"<div",
+			"$black-lighter",
+			"melville",
+			".nav-main .open .line",
+			"38,51,102",
+			".svg-home-illus-about-a",
+			".svg-home-illus-about-j",
+			"255,255,255",
+			"animContent",
+			"sofia",
+			"homeRefreshCanvas",
+			".",
+			"\"./",
+			"",
+			"<small>- Design</small></li>",
+			"<small>- Design & Développement</small></li>",
+			"<small>- Développement</small></li>",
+			"bmContact",
+			"184,217,235",
+			"168,208,230",
+			"152,199,224",
+			"152,199,204",
+			"165,206,228",
+			"145,196,223",
+			"255,0,0",
+			"145,196,223",
+			"newLink",
+			"255,255,255",
+			"pageText",
+			"255,255,255",
+			"0,0,0",
+			"section",
+			"-transition",
+			"$('.global-animation').hide();",
+			"span",
+			"animation-sushi",
+			"wrk",
+			"hTotalPoints",
+			"vTotalPoints",
+			"Y",
+			"waveMotion",
+			"waveBlockX",
+			"homeCanvas",
+			"this.canvas",
+			"p",
+			"step",
+			"processSwitchSteps(",
+			"processSwitchSteps",
+			"checkPageSectionsNav",
+			"nextPageSection",
+			"switchPageSections",
+			"windowWidth",
+			"windowHeight",
+			"$(window).height()",
+			"$(window).width()",
+			"700",
+			"fonts",
+			"'#{$base_dir}fonts/",
+			" url('../fonts/",
+			"WRK",
+			"wrk_",
+			"rotateZ",
+			"var start = 0;",
+			"partners",
+			"contentStart",
+			"Linear.easeNone",
+			"mask-",
+			"\"-2\"",
+			"\"-1\"",
+			"\"-0.5\"",
+			"div",
+			"fullscreen",
+			"",
+			"Makers'",
+			"Career'",
+			"$purple-darker",
+			"Y",
+			"loading",
+			"simplifiedVersion()",
+			"navMain",
+			"$(window).on('scroll'",
+			"direction",
+			"BM",
+			"bm_",
+			"caseStudySetSections",
+			"activeLink",
+			".gradient",
+			"nth-child(2)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "script.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"order",
+				"classes\\order\\Order.php"
+			],
+			[
+				"mail",
+				"classes\\Mail.php"
+			],
+			[
+				"link",
+				"classes\\Link.php"
+			],
+			[
+				".product",
+				"themes\\pedrito2015\\.sass-cache\\8de274938108bd638f836afce209944ab07d502e\\productcomments.scssc"
+			],
+			[
+				"blockre",
+				"themes\\pedrito2015\\modules\\blockreinsurance\\blockreinsurance.tpl"
+			],
+			[
+				"product",
+				"classes\\Product.php"
+			],
+			[
+				"helpers.s",
+				"themes\\pedrito2015\\sass\\_helpers.scss"
+			],
+			[
+				"blocknewporu",
+				"modules\\blocknewproducts\\blocknewproducts.php"
+			],
+			[
+				"menutopl",
+				"modules\\blocktopmenu\\menutoplinks.class.php"
+			],
+			[
+				"_mix",
+				"themes\\default-bootstrap\\sass\\bootstrap_lib\\_mixins.scss"
+			],
+			[
+				"blockcart.scss",
+				"themes\\pedrito2015\\sass\\modules\\blockcart\\blockcart.scss"
+			],
+			[
+				"blockcart.sc",
+				"themes\\default-bootstrap\\sass\\modules\\blockcart\\blockcart.scss"
+			],
+			[
+				"blockcartcs",
+				"modules\\blockcart\\blockcart.css"
+			],
+			[
+				"tool",
+				"override\\classes\\Tools.php"
+			],
+			[
+				"heaer",
+				"inc\\header.php"
+			],
+			[
+				"functi",
+				"inc\\functions.php"
+			],
+			[
+				"_vari",
+				"assets\\sass\\_variables.scss"
+			],
+			[
+				"funct",
+				"inc\\functions.php"
+			],
+			[
+				"admin-page/inde",
+				"wp-content/themes/plusdebonsplans-2015/functions-options/admin-page/index.php"
+			],
+			[
+				"admin-page/index",
+				"wp-content/themes/plusdebonsplans-2015/functions-options/admin-page/index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 625.0,
+		"last_filter": "waa",
+		"selected_items":
+		[
+			[
+				"waa",
+				"G:\\waaark.com\\wrk.sublime-project"
+			],
+			[
+				"eng",
+				"G:\\engzell.me\\engzell.sublime-project"
+			],
+			[
+				"",
+				"G:\\kineselab.com\\kinese.sublime-project"
+			],
+			[
+				"vogue",
+				"G:\\localhost\\vogue\\vogue.sublime-project"
+			],
+			[
+				"alix",
+				"G:\\alixbdanthenay.fr\\alix.sublime-project"
+			],
+			[
+				"ve",
+				"G:\\vendomeluxury-paris.com\\vendome.sublime-project"
+			],
+			[
+				"lit",
+				"G:\\littleplus.fr\\littleplus.sublime-project"
+			],
+			[
+				"v",
+				"G:\\vendomeluxury-paris.com\\vendome.sublime-project"
+			],
+			[
+				"bo",
+				"G:\\bonnemarque.se\\bonnemarque.sublime-project"
+			],
+			[
+				"hun",
+				"G:\\hunterfarmer.co.uk\\hunterfarmer.sublime-project"
+			],
+			[
+				"bad",
+				"G:\\badmintonsalonais.com\\badsalon.sublime-project"
+			],
+			[
+				"ali",
+				"G:\\alixbdanthenay.fr\\alix.sublime-project"
+			],
+			[
+				"ca",
+				"G:\\domaine-calmel-joseph.com\\domaine.sublime-project"
+			],
+			[
+				"ag",
+				"G:\\agence-s.fr\\agences.sublime-project"
+			],
+			[
+				"jd",
+				"G:\\jdand.co\\jdandco.sublime-project"
+			],
+			[
+				"b",
+				"G:\\blou-paris.fr\\blou.sublime-project"
+			]
+		],
+		"width": 475.0
+	},
+	"select_symbol":
+	{
+		"height": 490.0,
+		"last_filter": "WC_Product",
+		"selected_items":
+		[
+			[
+				"WC_Product",
+				"WC_Product"
+			]
+		],
+		"width": 700.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 373.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
